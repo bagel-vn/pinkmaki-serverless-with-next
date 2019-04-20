@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.idea
+.webpack
+.next
+dist
+
+.DS_Store
+.sls-simulate-registry
